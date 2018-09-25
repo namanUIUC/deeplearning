@@ -39,7 +39,7 @@ Activation : Relu
 
 Results of the implementation:
 
-![mp2](/home/naman/GitBoob/deeplearning/utils/mp2.png)
+![mp2](./utils/mp2.png)
 
 
 
