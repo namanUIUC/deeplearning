@@ -1,4 +1,4 @@
-# .Deep Learning : CS 598 - UIUC
+# Deep Learning : CS 598 - UIUC
 ### About this repository
 
 
