@@ -47,17 +47,17 @@ Results of the implementation:
 
 **Objective** : Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset. The convolution network should use (A) dropout, (B) trained with RMSprop or ADAM, and (C) data  augmentation. For 10% extra credit, compare dropout test accuracy (i) using the heuristic prediction rule and (ii) Monte Carlo simulation. For full credit, the model should achieve 80-90% Test Accuracy. Submit via Compass (1) the code and (2) a paragraph (in a PDF document) which reports the results and briefly describes the model architecture.
 
-![mp3_1](/home/naman/GitBoob/deeplearning/utils/mp3_1.png)
+![mp3_1](./utils/mp3_1.png)
 
 The loss & accuracy curve for this implementation is given below:
 
-![mp3_Loss](/home/naman/GitBoob/deeplearning/utils/mp3_Loss.png)
+![mp3_Loss](./utils/mp3_Loss.png)
 
-![mp3_acc](/home/naman/GitBoob/deeplearning/utils/mp3_acc.png)
+![mp3_acc](./utils/mp3_acc.png)
 
 > **BONUS PART**
 >
-> ![mp3_extra](/home/naman/GitBoob/deeplearning/utils/mp3_extra.png)
+> ![mp3_extra](./utils/mp3_extra.png)
 
 
 
