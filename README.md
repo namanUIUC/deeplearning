@@ -43,6 +43,24 @@ Results of the implementation:
 
 
 
-#### MP2 : CIFAR10 Classification (PyTorch)
+#### MP3 : CIFAR10 Classification (PyTorch)
 
 **Objective** : Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset. The convolution network should use (A) dropout, (B) trained with RMSprop or ADAM, and (C) data  augmentation. For 10% extra credit, compare dropout test accuracy (i) using the heuristic prediction rule and (ii) Monte Carlo simulation. For full credit, the model should achieve 80-90% Test Accuracy. Submit via Compass (1) the code and (2) a paragraph (in a PDF document) which reports the results and briefly describes the model architecture.
+
+![mp3_1](/home/naman/GitBoob/deeplearning/utils/mp3_1.png)
+
+The loss & accuracy curve for this implementation is given below:
+
+![mp3_Loss](/home/naman/GitBoob/deeplearning/utils/mp3_Loss.png)
+
+![mp3_acc](/home/naman/GitBoob/deeplearning/utils/mp3_acc.png)
+
+> **BONUS PART**
+>
+> ![mp3_extra](/home/naman/GitBoob/deeplearning/utils/mp3_extra.png)
+
+
+
+#### MP4 : CIFAR100 ResNet and ImageNet Transfer learning (PyTorch)
+
+**Objective** : Implement a deep residual neural network for CIFAR100. [**Homework #4 Details.** ](https://courses.engr.illinois.edu/ie534/fa2018/secure/IE534_HW4.pdf)
