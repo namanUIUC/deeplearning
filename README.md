@@ -64,3 +64,14 @@ The loss & accuracy curve for this implementation is given below:
 #### MP4 : CIFAR100 ResNet and ImageNet Transfer learning (PyTorch)
 
 **Objective** : Implement a deep residual neural network for CIFAR100. [**Homework #4 Details.** ](https://courses.engr.illinois.edu/ie534/fa2018/secure/IE534_HW4.pdf)
+
+**Implementation** : Please refer to the above given guidelines of implementation (Homework #4 Details).
+
+*Part 1 Results* :
+
+![mp4_1](./utils/mp4_1.png)
+
+*Part 2 Results* :
+
+![mp4_2](./utils/mp4_2.png)
+
